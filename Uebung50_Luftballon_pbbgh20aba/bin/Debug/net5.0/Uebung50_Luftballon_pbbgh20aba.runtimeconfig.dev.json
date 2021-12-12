@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/Users/muratbasoglu/.dotnet/store/|arch|/|tfm|",
-      "/Users/muratbasoglu/.nuget/packages"
+      "/Users/macbook/.dotnet/store/|arch|/|tfm|",
+      "/Users/macbook/.nuget/packages"
     ]
   }
 }

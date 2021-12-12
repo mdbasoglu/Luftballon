@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/muratbasoglu/.nuget/packages/": {}
+    "/Users/macbook/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muratbasoglu/Desktop/Git-Reps/CSharp_3Block/Uebung50_Luftballon_pbbgh20aba/Uebung50_Luftballon_pbbgh20aba/Uebung50_Luftballon_pbbgh20aba.csproj",
+      "projectUniqueName": "/Users/macbook/Documents/GitHub/Luftballon/Uebung50_Luftballon_pbbgh20aba/Uebung50_Luftballon_pbbgh20aba.csproj",
       "projectName": "Uebung50_Luftballon_pbbgh20aba",
-      "projectPath": "/Users/muratbasoglu/Desktop/Git-Reps/CSharp_3Block/Uebung50_Luftballon_pbbgh20aba/Uebung50_Luftballon_pbbgh20aba/Uebung50_Luftballon_pbbgh20aba.csproj",
-      "packagesPath": "/Users/muratbasoglu/.nuget/packages/",
-      "outputPath": "/Users/muratbasoglu/Desktop/Git-Reps/CSharp_3Block/Uebung50_Luftballon_pbbgh20aba/Uebung50_Luftballon_pbbgh20aba/obj/",
+      "projectPath": "/Users/macbook/Documents/GitHub/Luftballon/Uebung50_Luftballon_pbbgh20aba/Uebung50_Luftballon_pbbgh20aba.csproj",
+      "packagesPath": "/Users/macbook/.nuget/packages/",
+      "outputPath": "/Users/macbook/Documents/GitHub/Luftballon/Uebung50_Luftballon_pbbgh20aba/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/muratbasoglu/.config/NuGet/NuGet.Config"
+        "/Users/macbook/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.403/RuntimeIdentifierGraph.json"
       }
     }
   }
